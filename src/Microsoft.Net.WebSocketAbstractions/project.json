@@ -1,9 +1,9 @@
-{
+﻿{
     "version": "1.0.0-*",
     "description": "WebSocket abstract base class.",
     "frameworks": {
         "net45": { },
-        "aspnetcore50": {
+        "dnxcore50": {
           "dependencies": {
             "System.Runtime": "4.0.20-beta-*",
             "System.Threading.Tasks": "4.0.10-beta-*"

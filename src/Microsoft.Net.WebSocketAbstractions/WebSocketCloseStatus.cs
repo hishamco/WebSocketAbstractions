@@ -1,4 +1,4 @@
-#if ASPNETCORE50
+﻿#if DNXCORE50
 namespace System.Net.WebSockets
 {
     public enum WebSocketCloseStatus
