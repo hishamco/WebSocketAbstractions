@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.21730.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2C7947A5-9FBD-4267-97C1-2D726D7B3BAF}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Microsoft.Net.WebSocketAbstractions", "src\Microsoft.Net.WebSocketAbstractions\Microsoft.Net.WebSocketAbstractions.kproj", "{EB997695-F822-4372-8E56-02BA517B54B5}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Microsoft.Net.WebSocketAbstractions", "src\Microsoft.Net.WebSocketAbstractions\Microsoft.Net.WebSocketAbstractions.xproj", "{EB997695-F822-4372-8E56-02BA517B54B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
